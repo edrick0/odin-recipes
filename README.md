@@ -1,2 +1,4 @@
 # odin-recipes
 This project is the first html hands-on project: create a recipe
+The challenging things for me is that after reading the material and startting to actually create a project, I soon found out that I constantly recheck if anything is missing, "should I use the relative path or absolute path?", "how to add text to the link element?", "do I use the right git command to push the files?", "what commit messages should I write?"
+As I started coding and through various commands I am not that familiar with, the memory connection between each lesson began to pay off. I felt a little uncomfortable but I know this is what learning is, keep going!
